@@ -1,0 +1,6 @@
+{
+  "name": "DECILE Outreach",
+  "description": "Upload leads, send personalised email campaigns in safe daily batches, and track every reply.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
